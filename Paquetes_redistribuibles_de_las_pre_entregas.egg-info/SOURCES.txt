@@ -1,0 +1,8 @@
+setup.py
+Paquetes_redistribuibles_de_las_pre_entregas.egg-info/PKG-INFO
+Paquetes_redistribuibles_de_las_pre_entregas.egg-info/SOURCES.txt
+Paquetes_redistribuibles_de_las_pre_entregas.egg-info/dependency_links.txt
+Paquetes_redistribuibles_de_las_pre_entregas.egg-info/top_level.txt
+Segunda-pre-entrega-Rosas Sandillu/Primera-pre-entrega-Rosas Sandillú.py
+Segunda-pre-entrega-Rosas Sandillu/Segunda-pre-entregra-Rosas Sandillú.py
+Segunda-pre-entrega-Rosas Sandillu/__init__.py
